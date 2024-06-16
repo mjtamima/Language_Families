@@ -9,11 +9,10 @@ Languages, just like people, often have families. You can even map language line
 Java can help us build a model to track inherited traits across families. In this case, we’ll focus on something that often varies between language families: word order — where the subject, verb, and object would go in a sentence.
 
 For example, in English, you would use subject-verb-object order:
-
 subject	verb	object:
 She	eats	noodles.
-But in Japanese, you would use subject-object-verb order:
 
+But in Japanese, you would use subject-object-verb order:
 subject	verb	object:
 彼女は	麺を	食べる
 (she)	(noodles)	(eats)
