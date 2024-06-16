@@ -10,11 +10,11 @@ Java can help us build a model to track inherited traits across families. In thi
 
 For example, in English, you would use subject-verb-object order:
 
-subject	verb	object
-She	eats	noodles
+subject	verb	object:
+She	eats	noodles.
 But in Japanese, you would use subject-object-verb order:
 
-subject	verb	object
+subject	verb	object:
 彼女は	麺を	食べる
 (she)	(noodles)	(eats)
 Your Language Inheritance package has three Java files:
